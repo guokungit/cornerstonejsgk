@@ -45,5 +45,6 @@
         "gl-matrix": "^3.4.3",
         "lodash.clonedeep": "^4.5.0",
         "ndarray": "^1.0.19"
-    }
+    },
+    "gitHead": "df5c6f11465935ebb4fd048d67f9fc0c61f5c037"
 }
