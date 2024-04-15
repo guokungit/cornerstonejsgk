@@ -1,18 +1,4 @@
 {
-  "version": "10.0.1",
-  "packages": [
-    "packages/adapters",
-    "packages/core",
-    "packages/tools",
-    "packages/streaming-image-volume-loader",
-    "packages/dicomImageLoader"
-  ],
-  "npmClient": "yarn",
-  "useWorkspaces": true,
-  "command": {
-    "publish": {
-      "ignoreChanges": ["*.md", "*.yml", "*.spec.js", "*.test.js"],
-      "message": "chore(release): publish"
-    }
-  }
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "version": "10.0.5"
 }
