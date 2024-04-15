@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "0.0.1",
   "packages": [
     "packages/adapters",
     "packages/core",
@@ -15,7 +15,7 @@
       "message": "chore(release): publish"
     },
     "version": {
-      "allowBranch": "main",
+      "allowBranch": "dev",
       "conventionalCommits": true,
       "createRelease": "github",
       "yes": true,
