@@ -39,7 +39,9 @@ class ZoomTool extends BaseTool {
     } else {
       this.touchDragCallback = this._dragCallback.bind(this);
     }
+    console.log('this is testcsacscsavcsa zoom lerna');
     this.mouseDragCallback = this._dragCallback.bind(this);
+    console.log('this is test fdasfdafafa zoom lerna');
   }
 
   preMouseDownCallback = (evt: EventTypes.InteractionEventType): boolean => {
