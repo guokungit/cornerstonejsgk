@@ -1,4 +1,5 @@
 {
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "version": "0.0.1",
   "packages": [
     "packages/adapters",
@@ -6,21 +7,5 @@
     "packages/tools",
     "packages/streaming-image-volume-loader",
     "packages/dicomImageLoader"
-  ],
-  "npmClient": "yarn",
-  "useWorkspaces": true,
-  "command": {
-    "publish": {
-      "ignoreChanges": ["*.md", "*.yml", "*.spec.js", "*.test.js"],
-      "message": "chore(release): publish"
-    },
-    "version": {
-      "allowBranch": "dev",
-      "conventionalCommits": true,
-      "createRelease": "github",
-      "yes": true,
-      "message": "chore(release): publish [skip ci]",
-      "forcePublish": true
-    }
-  }
+  ]
 }
