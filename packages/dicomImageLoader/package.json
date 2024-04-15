@@ -1,6 +1,6 @@
 {
   "name": "@cornerstonejs/dicom-image-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cornerstone Image Loader for DICOM WADO-URI and WADO-RS and Local file",
   "keywords": [
     "DICOM",
@@ -67,7 +67,7 @@
     "@cornerstonejs/codec-libjpeg-turbo-8bit": "^1.2.2",
     "@cornerstonejs/codec-openjpeg": "^1.2.2",
     "@cornerstonejs/codec-openjph": "^2.4.2",
-    "@cornerstonejs/core": "^0.0.3",
+    "@cornerstonejs/core": "^0.0.4",
     "dicom-parser": "^1.8.9",
     "pako": "^2.0.4",
     "uuid": "^9.0.0"
@@ -89,5 +89,5 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "gitHead": "df5c6f11465935ebb4fd048d67f9fc0c61f5c037"
+  "gitHead": "d67fa358e6aa213a42380e380cc7a8a76c36b642"
 }

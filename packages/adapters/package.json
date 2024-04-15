@@ -1,6 +1,6 @@
 {
     "name": "@cornerstonejs/adapters",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Adapters for Cornerstone3D to/from formats including DICOM SR and others",
     "src": "src/index.ts",
     "main": "./dist/@cornerstonejs/adapters.es.js",
@@ -46,5 +46,5 @@
         "lodash.clonedeep": "^4.5.0",
         "ndarray": "^1.0.19"
     },
-    "gitHead": "df5c6f11465935ebb4fd048d67f9fc0c61f5c037"
+    "gitHead": "d67fa358e6aa213a42380e380cc7a8a76c36b642"
 }
