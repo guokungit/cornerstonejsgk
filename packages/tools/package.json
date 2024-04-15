@@ -1,11 +1,11 @@
 {
-  "name": "@cornerstonejs/tools",
+  "name": "goodkeeper/tools",
   "version": "1.2.8",
   "description": "Cornerstone3D Tools",
   "main": "dist/umd/index.js",
   "types": "dist/esm/index.d.ts",
   "module": "dist/esm/index.js",
-  "repository": "https://github.com/cornerstonejs/cornerstone3D",
+  "repository": "https://github.com/guokungit/lerna-learn#readme",
   "files": [
     "dist/",
     "src/"
