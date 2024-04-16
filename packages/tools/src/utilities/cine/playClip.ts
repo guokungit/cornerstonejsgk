@@ -6,9 +6,9 @@ import {
   VolumeViewport,
   cache,
   BaseVolumeViewport,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 
-import { Types } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
 import CINE_EVENTS from './events';
 import { addToolState, getToolState } from './state';
 import { CINETypes } from '../../types';

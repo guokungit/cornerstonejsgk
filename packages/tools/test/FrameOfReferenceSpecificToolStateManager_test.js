@@ -1,5 +1,5 @@
 import * as csTools from '../src/index';
-import * as cornerstone3D from '@cornerstonejs/core';
+import * as cornerstone3D from '@jushacornerstonejs/core';
 
 const annotationManager = csTools.annotation.state.getAnnotationManager();
 

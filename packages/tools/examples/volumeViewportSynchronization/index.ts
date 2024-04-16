@@ -4,7 +4,7 @@ import {
   Enums,
   volumeLoader,
   setVolumesForViewports,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

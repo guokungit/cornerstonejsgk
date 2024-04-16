@@ -28,9 +28,9 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@cornerstonejs/core": "^1.2.8",
-    "@cornerstonejs/dicom-image-loader": "^1.2.8",
-    "@cornerstonejs/streaming-image-volume-loader": "^1.2.8",
+    "@jushacornerstonejs/core": "^1.2.8",
+    "@jushacornerstonejs/dicom-image-loader": "^1.2.8",
+    "@jushacornerstonejs/streaming-image-volume-loader": "^1.2.8",
     "@jushacornerstonejs/tools": "^1.2.8",
     "@docusaurus/core": "2.3.1",
     "@docusaurus/module-type-aliases": "2.3.1",

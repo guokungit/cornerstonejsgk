@@ -2,8 +2,8 @@ import { api } from 'dicomweb-client';
 import dcmjs from 'dcmjs';
 import { calculateSUVScalingFactors } from '@cornerstonejs/calculate-suv';
 import { getPTImageIdInstanceMetadata } from './getPTImageIdInstanceMetadata';
-import { utilities } from '@cornerstonejs/core';
-import cornerstoneDICOMImageLoader from '@cornerstonejs/dicom-image-loader';
+import { utilities } from '@jushacornerstonejs/core';
+import cornerstoneDICOMImageLoader from '@jushacornerstonejs/dicom-image-loader';
 
 import ptScalingMetaDataProvider from './ptScalingMetaDataProvider';
 import getPixelSpacingInformation from './getPixelSpacingInformation';

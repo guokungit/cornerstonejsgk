@@ -29,7 +29,7 @@ module.exports = {
   },
   devtool: 'source-map',
   externals: [
-    '@cornerstonejs/core',
+    '@jushacornerstonejs/core',
     'uuid',
     {
       'dicom-parser': {

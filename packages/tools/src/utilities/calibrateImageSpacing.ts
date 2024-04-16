@@ -1,5 +1,5 @@
-import { utilities } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { utilities } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 const { calibratedPixelSpacingMetadataProvider } = utilities;
 

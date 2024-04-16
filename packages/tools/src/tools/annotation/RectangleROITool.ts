@@ -6,8 +6,8 @@ import {
   triggerEvent,
   eventTarget,
   utilities as csUtils,
-} from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 import throttle from '../../utilities/throttle';
 import {

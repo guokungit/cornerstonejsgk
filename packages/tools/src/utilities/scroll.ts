@@ -6,7 +6,7 @@ import {
   EVENTS,
   utilities as csUtils,
   getEnabledElement,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import { ScrollOptions, EventTypes } from '../types';
 
 /**

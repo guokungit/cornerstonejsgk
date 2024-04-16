@@ -1,5 +1,5 @@
-import { getEnabledElement } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { getEnabledElement } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 import { vec2, vec3 } from 'gl-matrix';
 import { PlanarFreehandROICommonData } from './planarFreehandROIInternalTypes';
 

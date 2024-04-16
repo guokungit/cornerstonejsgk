@@ -89,7 +89,7 @@ class RenderingEngine implements IRenderingEngine {
 
     if (!isCornerstoneInitialized()) {
       throw new Error(
-        '@cornerstonejs/core is not initialized, run init() first'
+        '@jushacornerstonejs/core is not initialized, run init() first'
       );
     }
 

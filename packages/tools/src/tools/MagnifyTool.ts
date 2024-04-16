@@ -1,13 +1,13 @@
 import { BaseTool } from './base';
 import { Events } from '../enums';
 
-import { getEnabledElement, StackViewport } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { getEnabledElement, StackViewport } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 import { EventTypes, PublicToolProps, ToolProps } from '../types';
 import { getViewportIdsWithToolToRender } from '../utilities/viewportFilters';
 import triggerAnnotationRenderForViewportIds from '../utilities/triggerAnnotationRenderForViewportIds';
 import { state } from '../store';
-import { Enums } from '@cornerstonejs/core';
+import { Enums } from '@jushacornerstonejs/core';
 
 import {
   hideElementCursor,

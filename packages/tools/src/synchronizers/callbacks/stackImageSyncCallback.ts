@@ -4,7 +4,7 @@ import {
   Types,
   metaData,
   utilities,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import { Synchronizer } from '../../store';
 import { jumpToSlice } from '../../utilities';
 import areViewportsCoplanar from './areViewportsCoplanar ';

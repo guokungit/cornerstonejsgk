@@ -4,8 +4,8 @@ import {
   getEnabledElement,
   triggerEvent,
   eventTarget,
-} from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 import { AnnotationTool } from '../base';
 import throttle from '../../utilities/throttle';

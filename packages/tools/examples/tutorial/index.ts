@@ -10,7 +10,7 @@ import {
   Enums,
   setVolumesForViewports,
   volumeLoader,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   addTool,
   BrushTool,

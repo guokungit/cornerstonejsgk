@@ -3,7 +3,7 @@ import {
   Types,
   volumeLoader,
   Enums,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

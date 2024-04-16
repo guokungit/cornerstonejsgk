@@ -1,5 +1,5 @@
-import { VolumeViewport } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { VolumeViewport } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 import { vec3 } from 'gl-matrix';
 

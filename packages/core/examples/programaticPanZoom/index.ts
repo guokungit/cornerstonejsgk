@@ -3,7 +3,7 @@ import {
   RenderingEngine,
   Types,
   Enums,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

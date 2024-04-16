@@ -3,7 +3,7 @@ import {
   Types,
   Enums,
   volumeLoader,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   setTitleAndDescription,

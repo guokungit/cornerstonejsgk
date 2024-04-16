@@ -44,9 +44,9 @@
    * local files for library1.
    */
   "bundledPackages": [
-    "@cornerstonejs/core",
+    "@jushacornerstonejs/core",
     "@jushacornerstonejs/tools",
-    "@cornerstonejs/streaming-image-volume-loader"
+    "@jushacornerstonejs/streaming-image-volume-loader"
   ],
 
   /**

@@ -2,7 +2,7 @@ import {
   triggerEvent,
   eventTarget,
   utilities as csUtils,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import { Events } from '../../enums';
 import { defaultFrameOfReferenceSpecificAnnotationManager } from './FrameOfReferenceSpecificAnnotationManager';
 import { Annotations, Annotation } from '../../types/AnnotationTypes';

@@ -1,5 +1,5 @@
-import { StackViewport } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { StackViewport } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 import { vec3 } from 'gl-matrix';
 
 const EPSILON = 1e-3;

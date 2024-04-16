@@ -1,5 +1,5 @@
 import { createSynchronizer } from '../../store/SynchronizerManager';
-import { Enums } from '@cornerstonejs/core';
+import { Enums } from '@jushacornerstonejs/core';
 import voiSyncCallback from '../callbacks/voiSyncCallback';
 import Synchronizer from '../../store/SynchronizerManager/Synchronizer';
 

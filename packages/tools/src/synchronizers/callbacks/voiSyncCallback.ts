@@ -3,7 +3,7 @@ import {
   StackViewport,
   Types,
   VolumeViewport,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 
 /**
  * Synchronizer callback to synchronize the voi of volumeActors of identical volumes

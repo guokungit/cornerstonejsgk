@@ -1,4 +1,4 @@
-import { getRenderingEngine, Types } from '@cornerstonejs/core';
+import { getRenderingEngine, Types } from '@jushacornerstonejs/core';
 import { Synchronizer } from '../../store';
 
 /**

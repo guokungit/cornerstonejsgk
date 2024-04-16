@@ -1,6 +1,6 @@
-import { RenderingEngine, Types, Enums, CONSTANTS } from '@cornerstonejs/core';
+import { RenderingEngine, Types, Enums, CONSTANTS } from '@jushacornerstonejs/core';
 import { setTitleAndDescription } from '../../../../utils/demo/helpers';
-import { init as csRenderInit } from '@cornerstonejs/core';
+import { init as csRenderInit } from '@jushacornerstonejs/core';
 import { init as csToolsInit } from '@jushacornerstonejs/tools';
 
 import vtkActor from '@kitware/vtk.js/Rendering/Core/Actor';

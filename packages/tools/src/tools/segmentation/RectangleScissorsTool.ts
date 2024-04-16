@@ -1,5 +1,5 @@
-import { cache, getEnabledElement, StackViewport } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { cache, getEnabledElement, StackViewport } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 import { BaseTool } from '../base';
 import {

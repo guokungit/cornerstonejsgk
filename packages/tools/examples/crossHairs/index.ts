@@ -5,7 +5,7 @@ import {
   setVolumesForViewports,
   volumeLoader,
   getRenderingEngine,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

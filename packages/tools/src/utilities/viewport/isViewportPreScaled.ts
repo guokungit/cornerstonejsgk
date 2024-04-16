@@ -3,7 +3,7 @@ import {
   StackViewport,
   Types,
   BaseVolumeViewport,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 
 function isViewportPreScaled(
   viewport: Types.IStackViewport | Types.IVolumeViewport,

@@ -1,4 +1,4 @@
-import { triggerEvent, eventTarget } from '@cornerstonejs/core';
+import { triggerEvent, eventTarget } from '@jushacornerstonejs/core';
 
 import { Events } from '../../enums';
 import {

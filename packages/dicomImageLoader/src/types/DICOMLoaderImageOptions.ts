@@ -1,4 +1,4 @@
-import { Types } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
 import { LoadRequestFunction } from './LoadRequestFunction';
 
 export interface DICOMLoaderImageOptions {

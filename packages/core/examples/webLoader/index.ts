@@ -5,7 +5,7 @@ import {
   metaData,
   getRenderingEngine,
   Types,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   setTitleAndDescription,

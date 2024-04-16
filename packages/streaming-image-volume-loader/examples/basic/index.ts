@@ -3,7 +3,7 @@ import {
   Enums,
   init as csInit,
   Types,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import { init as csTools3dInit } from '@jushacornerstonejs/tools';
 
 // This is for debugging purposes

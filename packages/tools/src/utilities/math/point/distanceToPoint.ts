@@ -1,4 +1,4 @@
-import type { Types } from '@cornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 /**
  * Calculates the distance of a point to another point

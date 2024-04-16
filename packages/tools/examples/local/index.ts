@@ -1,5 +1,5 @@
-import { RenderingEngine, Types, Enums, metaData } from '@cornerstonejs/core';
-import cornerstoneDICOMImageLoader from '@cornerstonejs/dicom-image-loader';
+import { RenderingEngine, Types, Enums, metaData } from '@jushacornerstonejs/core';
+import cornerstoneDICOMImageLoader from '@jushacornerstonejs/dicom-image-loader';
 import * as cornerstoneTools from '@jushacornerstonejs/tools';
 import htmlSetup from './htmlSetup';
 import uids from './uids';

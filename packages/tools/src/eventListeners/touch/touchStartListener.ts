@@ -1,4 +1,4 @@
-import { getEnabledElement, triggerEvent } from '@cornerstonejs/core';
+import { getEnabledElement, triggerEvent } from '@jushacornerstonejs/core';
 import Events from '../../enums/Events';
 import { Swipe } from '../../enums/Touch';
 
@@ -14,7 +14,7 @@ import {
   getMeanTouchPoints,
   // getRotation
 } from '../../utilities/touch';
-import { Settings } from '@cornerstonejs/core';
+import { Settings } from '@jushacornerstonejs/core';
 
 const runtimeSettings = Settings.getRuntimeSettings();
 

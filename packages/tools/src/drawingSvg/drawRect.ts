@@ -1,4 +1,4 @@
-import type { Types } from '@cornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 import _getHash from './_getHash';
 import _setAttributesIfNecessary from './_setAttributesIfNecessary';

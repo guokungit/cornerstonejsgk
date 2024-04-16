@@ -4,7 +4,7 @@ import {
   Enums,
   volumeLoader,
   getRenderingEngine,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import * as cornerstoneTools from '@jushacornerstonejs/tools';
 
 import {

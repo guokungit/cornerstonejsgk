@@ -10,7 +10,7 @@ You can install `Cornerstone3D`, `Cornerstone3DTools`, and `StreamingImageVolume
 You can install the latest version of the packages by running:
 
 ```bash
-npm install @cornerstonejs/core
+npm install @jushacornerstonejs/core
 ```
 
 ```bash
@@ -18,13 +18,13 @@ npm install @jushacornerstonejs/tools
 ```
 
 ```bash
-npm install @cornerstonejs/streaming-image-volume-loader
+npm install @jushacornerstonejs/streaming-image-volume-loader
 ```
 
 If you are using [Yarn](https://yarnpkg.com/), you can install the packages by running:
 
 ```bash
-yarn add @cornerstonejs/core
+yarn add @jushacornerstonejs/core
 yarn add @jushacornerstonejs/tools
-yarn add @cornerstonejs/streaming-image-volume-loader
+yarn add @jushacornerstonejs/streaming-image-volume-loader
 ```

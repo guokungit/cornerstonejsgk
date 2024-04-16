@@ -5,7 +5,7 @@ import {
   volumeLoader,
   Enums,
   CONSTANTS,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

@@ -3,7 +3,7 @@ import {
   getEnabledElement,
   Enums,
   Types,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 
 import { ISynchronizerEventHandler } from '../../types';
 

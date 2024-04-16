@@ -1,6 +1,6 @@
-import { RenderingEngine, Types, Enums } from '@cornerstonejs/core';
+import { RenderingEngine, Types, Enums } from '@jushacornerstonejs/core';
 import { setTitleAndDescription } from '../../../../utils/demo/helpers';
-import { init as csRenderInit } from '@cornerstonejs/core';
+import { init as csRenderInit } from '@jushacornerstonejs/core';
 import { init as csToolsInit } from '@jushacornerstonejs/tools';
 import * as cornerstoneTools from '@jushacornerstonejs/tools';
 

@@ -1,4 +1,4 @@
-import * as cornerstoneImport from '@cornerstonejs/core';
+import * as cornerstoneImport from '@jushacornerstonejs/core';
 import { loadImage } from './loadImage';
 import { metaDataProvider } from './metaData/index';
 

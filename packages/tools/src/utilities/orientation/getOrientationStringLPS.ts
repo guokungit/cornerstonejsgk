@@ -1,4 +1,4 @@
-import { Types } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
 
 /**
  * Returns the orientation of the vector in the patient coordinate system.

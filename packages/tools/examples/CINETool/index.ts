@@ -5,7 +5,7 @@ import {
   utilities as csUtils,
   volumeLoader,
   setVolumesForViewports,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

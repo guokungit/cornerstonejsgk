@@ -6,7 +6,7 @@ import {
   Types,
   utilities,
   volumeLoader,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import * as cornerstoneTools from '@jushacornerstonejs/tools';
 import {
   addDropdownToToolbar,

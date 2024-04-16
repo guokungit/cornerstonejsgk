@@ -1,4 +1,4 @@
-import { getEnabledElement } from '@cornerstonejs/core';
+import { getEnabledElement } from '@jushacornerstonejs/core';
 
 const state: Record<number, any> = {};
 

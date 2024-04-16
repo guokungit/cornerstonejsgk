@@ -1,5 +1,5 @@
-import { metaData } from '@cornerstonejs/core';
-import cornerstoneDICOMImageLoader from '@cornerstonejs/dicom-image-loader';
+import { metaData } from '@jushacornerstonejs/core';
+import cornerstoneDICOMImageLoader from '@jushacornerstonejs/dicom-image-loader';
 /**
  * preloads imageIds metadata in memory
  **/

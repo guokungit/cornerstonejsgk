@@ -1,5 +1,5 @@
-import { Types } from '@cornerstonejs/core';
-import { utilities as csUtils } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
+import { utilities as csUtils } from '@jushacornerstonejs/core';
 import { getToolGroup } from '../../store/ToolGroupManager';
 import BrushTool from '../../tools/segmentation/BrushTool';
 import getBoundingBoxAroundShape from '../boundingBox/getBoundingBoxAroundShape';

@@ -1,4 +1,4 @@
-import type { Types } from '@cornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 type ellipsoid = {
   center: [number, number, number];

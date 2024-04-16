@@ -5,7 +5,7 @@ import {
   Enums,
   setUseCPURendering,
   setPreferSizeOverAccuracy,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import * as cornerstoneTools from '@jushacornerstonejs/tools';
 import uids from '../uids';
 const {

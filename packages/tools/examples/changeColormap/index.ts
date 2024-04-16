@@ -3,7 +3,7 @@ import {
   RenderingEngine,
   Types,
   volumeLoader,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   addButtonToToolbar,
   addDropdownToToolbar,

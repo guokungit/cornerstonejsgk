@@ -1,5 +1,5 @@
-import { getEnabledElement } from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+import { getEnabledElement } from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 /**
  * Remove the labelmap segmentation representation from the viewport's HTML Element.

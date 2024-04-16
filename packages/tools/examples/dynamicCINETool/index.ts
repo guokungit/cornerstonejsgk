@@ -1,4 +1,4 @@
-import cornerstoneDICOMImageLoader from '@cornerstonejs/dicom-image-loader';
+import cornerstoneDICOMImageLoader from '@jushacornerstonejs/dicom-image-loader';
 import {
   RenderingEngine,
   Types,
@@ -6,7 +6,7 @@ import {
   volumeLoader,
   setVolumesForViewports,
   cache,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

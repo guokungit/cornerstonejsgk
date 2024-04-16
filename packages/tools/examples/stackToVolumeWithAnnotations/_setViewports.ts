@@ -5,8 +5,8 @@ import {
   setVolumesForViewports,
   utilities,
   cache,
-} from '@cornerstonejs/core';
-import { StreamingImageVolume } from '@cornerstonejs/streaming-image-volume-loader';
+} from '@jushacornerstonejs/core';
+import { StreamingImageVolume } from '@jushacornerstonejs/streaming-image-volume-loader';
 import { Types as cstTypes } from '@jushacornerstonejs/tools';
 
 const { ViewportType } = Enums;

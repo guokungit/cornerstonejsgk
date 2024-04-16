@@ -5,7 +5,7 @@ import {
   volumeLoader,
   imageLoadPoolManager,
   CONSTANTS,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

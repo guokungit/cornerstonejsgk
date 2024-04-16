@@ -3,14 +3,14 @@ import {
   Types,
   Enums,
   getRenderingEngine,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   addButtonToToolbar,
   setTitleAndDescription,
   ctVoiRange,
 } from '../../../../utils/demo/helpers';
 import initCornerstoneDICOMImageLoader from '../../../../utils/demo/helpers/initCornerstoneDICOMImageLoader';
-import { init as csRenderInit } from '@cornerstonejs/core';
+import { init as csRenderInit } from '@jushacornerstonejs/core';
 
 // This is for debugging purposes
 console.warn(

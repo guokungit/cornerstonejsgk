@@ -6,7 +6,7 @@ import {
   getRenderingEngine,
   utilities,
   CONSTANTS,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

@@ -1,6 +1,6 @@
 import { vec3 } from 'gl-matrix';
-import type { Types } from '@cornerstonejs/core';
-import { utilities as csUtils } from '@cornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
+import { utilities as csUtils } from '@jushacornerstonejs/core';
 
 import {
   getCanvasEllipseCorners,

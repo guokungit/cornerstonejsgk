@@ -1,4 +1,4 @@
-import { getRenderingEngine } from '@cornerstonejs/core';
+import { getRenderingEngine } from '@jushacornerstonejs/core';
 import triggerAnnotationRenderForViewportIds from '../../utilities/triggerAnnotationRenderForViewportIds';
 
 /**

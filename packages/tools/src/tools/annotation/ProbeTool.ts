@@ -8,8 +8,8 @@ import {
   eventTarget,
   utilities as csUtils,
   utilities,
-} from '@cornerstonejs/core';
-import type { Types } from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
+import type { Types } from '@jushacornerstonejs/core';
 
 import { AnnotationTool } from '../base';
 import {

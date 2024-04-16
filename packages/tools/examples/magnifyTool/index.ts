@@ -1,4 +1,4 @@
-import { RenderingEngine, Types, Enums } from '@cornerstonejs/core';
+import { RenderingEngine, Types, Enums } from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

@@ -7,7 +7,7 @@ import {
   imageLoadPoolManager,
   cache,
   getConfiguration as getCoreConfiguration,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import { addToolState, getToolState } from './state';
 
 const requestType = Enums.RequestType.Prefetch;

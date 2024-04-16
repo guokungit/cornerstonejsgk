@@ -4,7 +4,7 @@ import {
   Enums,
   volumeLoader,
   getRenderingEngine,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,
@@ -15,7 +15,7 @@ import {
   addButtonToToolbar,
 } from '../../../../utils/demo/helpers';
 import * as cornerstoneTools from '@jushacornerstonejs/tools';
-import cornerstoneDICOMImageLoader from '@cornerstonejs/dicom-image-loader';
+import cornerstoneDICOMImageLoader from '@jushacornerstonejs/dicom-image-loader';
 
 const {
   SegmentationDisplayTool,

@@ -1,4 +1,4 @@
-import { Types } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
 import { Annotation } from './AnnotationTypes';
 import IPoints from './IPoints';
 import ITouchPoints from './ITouchPoints';

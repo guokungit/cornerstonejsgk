@@ -47,8 +47,8 @@ module.exports = (env, argv, { DIST_DIR }) => {
       modules: [path.resolve(PROJECT_ROOT, './node_modules'), SRC_PATH],
       extensions: ['.ts', '.tsx', '.js', '.jsx'],
       alias: {
-        '@cornerstonejs/dicom-image-loader':
-          '@cornerstonejs/dicom-image-loader/dist/dynamic-import/cornerstoneDICOMImageLoader.min.js',
+        '@jushacornerstonejs/dicom-image-loader':
+          '@jushacornerstonejs/dicom-image-loader/dist/dynamic-import/cornerstoneDICOMImageLoader.min.js',
       },
       fallback: {
         fs: false,

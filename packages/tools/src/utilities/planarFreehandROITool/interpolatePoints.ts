@@ -1,4 +1,4 @@
-import { Types } from '@cornerstonejs/core';
+import { Types } from '@jushacornerstonejs/core';
 import { point } from '../math';
 import interpolateSegmentPoints from './interpolation/interpolateSegmentPoints';
 

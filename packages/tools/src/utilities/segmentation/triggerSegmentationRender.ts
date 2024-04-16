@@ -4,7 +4,7 @@ import {
   getRenderingEngine,
   Enums,
   Types,
-} from '@cornerstonejs/core';
+} from '@jushacornerstonejs/core';
 import { Events as csToolsEvents } from '../../enums';
 import {
   getToolGroup,

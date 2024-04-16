@@ -33,11 +33,11 @@ module.exports = (env, argv) => {
     },
     externals: [
       {
-        '@cornerstonejs/core': {
+        '@jushacornerstonejs/core': {
           root: 'cornerstone3D',
-          commonjs: '@cornerstonejs/core',
-          commonjs2: '@cornerstonejs/core',
-          amd: '@cornerstonejs/core',
+          commonjs: '@jushacornerstonejs/core',
+          commonjs2: '@jushacornerstonejs/core',
+          amd: '@jushacornerstonejs/core',
         },
       },
     ],

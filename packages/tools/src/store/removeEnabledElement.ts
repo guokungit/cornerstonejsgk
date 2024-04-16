@@ -1,4 +1,4 @@
-import { getEnabledElement, Types } from '@cornerstonejs/core';
+import { getEnabledElement, Types } from '@jushacornerstonejs/core';
 import {
   mouseEventListeners,
   wheelEventListener,
