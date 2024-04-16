@@ -23,7 +23,7 @@ class PanTool extends BaseTool {
   }
 
   mouseDragCallback(evt: EventTypes.InteractionEventType) {
-    console.log('mouseDragCallback   pan')
+    console.log('mouseDragCallback test   pan');
     this._dragCallback(evt);
   }
 
