@@ -18,9 +18,8 @@
       "allowBranch": "dev",
       "conventionalCommits": true,
       "createRelease": "github",
-      "yes": true,
       "message": "chore(release): publish [skip ci]",
-      "forcePublish": true
+
     }
   }
 }
