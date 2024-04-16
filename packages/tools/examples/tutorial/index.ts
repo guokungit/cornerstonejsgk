@@ -21,7 +21,7 @@ import {
   ZoomTool,
   segmentation,
   Enums as csToolsEnums,
-} from '@cornerstonejs/tools';
+} from '@jushacornerstonejs/tools';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

@@ -4,7 +4,7 @@ import {
   init as csInit,
   Types,
 } from '@cornerstonejs/core';
-import { init as csTools3dInit } from '@cornerstonejs/tools';
+import { init as csTools3dInit } from '@jushacornerstonejs/tools';
 
 // This is for debugging purposes
 console.warn(

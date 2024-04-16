@@ -17,7 +17,7 @@ import {
   Enums as csToolsEnums,
   annotation,
   addTool,
-} from '@cornerstonejs/tools';
+} from '@jushacornerstonejs/tools';
 
 // This is for debugging purposes
 console.warn(

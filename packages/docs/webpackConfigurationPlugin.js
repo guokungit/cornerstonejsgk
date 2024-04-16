@@ -35,7 +35,7 @@ const CopyPlugin = require('copy-webpack-plugin');
 //         },
 //         alias: {
 //           '@cornerstonejs/core': path.resolve('../core/src/index'),
-//           '@cornerstonejs/tools': path.resolve('../tools/src/index'),
+//           '@jushacornerstonejs/tools': path.resolve('../tools/src/index'),
 //           '@cornerstonejs/streaming-image-volume-loader': path.resolve(
 //             '../streaming-image-volume-loader/src/index'
 //           ),

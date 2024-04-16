@@ -64,7 +64,7 @@ Each level of the style hierarchy has a set of styles that can be set. The style
 ### Annotation-level settings
 
 ```js
-import { annotations } from '@cornerstonejs/tools';
+import { annotations } from '@jushacornerstonejs/tools';
 
 // Annotation Level
 const styles = {

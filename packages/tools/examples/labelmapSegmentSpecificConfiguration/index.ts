@@ -12,7 +12,7 @@ import {
   setTitleAndDescription,
   addSliderToToolbar,
 } from '../../../../utils/demo/helpers';
-import * as cornerstoneTools from '@cornerstonejs/tools';
+import * as cornerstoneTools from '@jushacornerstonejs/tools';
 
 // This is for debugging purposes
 console.warn(

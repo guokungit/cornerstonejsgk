@@ -26,7 +26,7 @@ synchronization.
 
 ```js
 import { Enums } from '@cornerstonejs/core';
-import { SynchronizerManager } from '@cornerstonejs/tools';
+import { SynchronizerManager } from '@jushacornerstonejs/tools';
 
 const cameraPositionSynchronizer = SynchronizerManager.createSynchronizer(
   'synchronizerName',

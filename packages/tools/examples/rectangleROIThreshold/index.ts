@@ -16,7 +16,7 @@ import {
   setCtTransferFunctionForVolumeActor,
   setPetColorMapTransferFunctionForVolumeActor,
 } from '../../../../utils/demo/helpers';
-import * as cornerstoneTools from '@cornerstonejs/tools';
+import * as cornerstoneTools from '@jushacornerstonejs/tools';
 import perfusionColorMap from './preset';
 
 // This is for debugging purposes

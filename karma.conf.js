@@ -116,7 +116,7 @@ module.exports = function (config) {
         },
         alias: {
           '@cornerstonejs/core': path.resolve('packages/core/src/index'),
-          '@cornerstonejs/tools': path.resolve('packages/tools/src/index'),
+          '@jushacornerstonejs/tools': path.resolve('packages/tools/src/index'),
           '@cornerstonejs/streaming-image-volume-loader': path.resolve(
             'packages/streaming-image-volume-loader/src/index'
           ),

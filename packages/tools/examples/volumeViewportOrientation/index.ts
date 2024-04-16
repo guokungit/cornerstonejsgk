@@ -9,7 +9,7 @@ import {
   StackScrollMouseWheelTool,
   ToolGroupManager,
   addTool,
-} from '@cornerstonejs/tools';
+} from '@jushacornerstonejs/tools';
 import {
   initDemo,
   createImageIdsAndCacheMetaData,

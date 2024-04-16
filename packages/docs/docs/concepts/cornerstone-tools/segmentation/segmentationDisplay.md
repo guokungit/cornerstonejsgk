@@ -20,7 +20,7 @@ import {
   segmentation,
   SegmentationDisplayTool,
   ToolGroupManager,
-} from '@cornerstonejs/tools';
+} from '@jushacornerstonejs/tools';
 
 const segmentationId = 'segmentationId';
 const toolGroupId = 'segmentation-display-tool-group';

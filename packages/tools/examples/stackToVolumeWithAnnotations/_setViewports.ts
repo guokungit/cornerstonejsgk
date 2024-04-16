@@ -7,7 +7,7 @@ import {
   cache,
 } from '@cornerstonejs/core';
 import { StreamingImageVolume } from '@cornerstonejs/streaming-image-volume-loader';
-import { Types as cstTypes } from '@cornerstonejs/tools';
+import { Types as cstTypes } from '@jushacornerstonejs/tools';
 
 const { ViewportType } = Enums;
 const VOLUME_LOADER_SCHEME = 'wadors';

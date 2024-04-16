@@ -14,7 +14,7 @@ npm install @cornerstonejs/core
 ```
 
 ```bash
-npm install @cornerstonejs/tools
+npm install @jushacornerstonejs/tools
 ```
 
 ```bash
@@ -25,6 +25,6 @@ If you are using [Yarn](https://yarnpkg.com/), you can install the packages by r
 
 ```bash
 yarn add @cornerstonejs/core
-yarn add @cornerstonejs/tools
+yarn add @jushacornerstonejs/tools
 yarn add @cornerstonejs/streaming-image-volume-loader
 ```

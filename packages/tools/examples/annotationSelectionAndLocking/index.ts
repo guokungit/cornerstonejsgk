@@ -18,7 +18,7 @@ import {
   annotation,
   addTool,
   Types as CSToolsTypes,
-} from '@cornerstonejs/tools';
+} from '@jushacornerstonejs/tools';
 
 // This is for debugging purposes
 console.warn(

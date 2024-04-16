@@ -6,7 +6,7 @@ import {
   setUseCPURendering,
   setPreferSizeOverAccuracy,
 } from '@cornerstonejs/core';
-import * as cornerstoneTools from '@cornerstonejs/tools';
+import * as cornerstoneTools from '@jushacornerstonejs/tools';
 import uids from '../uids';
 const {
   PanTool,

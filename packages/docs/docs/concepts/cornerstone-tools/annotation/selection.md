@@ -12,7 +12,7 @@ Annotations can be selected and deselected. This is achieved by holding down the
 There are various APIs for selecting and deselecting annotations along with get/set methods
 
 ```js
-import { annotations } from '@cornerstonejs/tools';
+import { annotations } from '@jushacornerstonejs/tools';
 
 // selection of an annotation
 annotations.selection.setAnnotationSelected(

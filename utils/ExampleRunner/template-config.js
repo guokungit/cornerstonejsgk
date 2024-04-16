@@ -67,7 +67,7 @@ module.exports = {
   resolve: {
     alias: {
       '@cornerstonejs/core': '${csRenderBasePath.replace(/\\/g, '/')}',
-      '@cornerstonejs/tools': '${csToolsBasePath.replace(/\\/g, '/')}',
+      '@jushacornerstonejs/tools': '${csToolsBasePath.replace(/\\/g, '/')}',
       '@cornerstonejs/streaming-image-volume-loader': '${csStreamingBasePath.replace(
         /\\/g,
         '//'

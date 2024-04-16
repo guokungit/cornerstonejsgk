@@ -16,7 +16,7 @@ When drawing with segmentation tools, you can specify which segment index to use
 ## API
 
 ```js
-import { segmentation } from '@cornerstonejs/tools';
+import { segmentation } from '@jushacornerstonejs/tools';
 
 // get active segment index for the segmentation Id
 segmentation.segmentIndex.getActiveSegmentIndex(segmentationId);
