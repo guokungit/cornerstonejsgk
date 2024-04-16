@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
+  "version": "1.0.0",
   "packages": [
     "packages/adapters",
     "packages/core",
@@ -13,14 +13,6 @@
     "publish": {
       "ignoreChanges": ["*.md", "*.yml", "*.spec.js", "*.test.js"],
       "message": "chore(release): publish"
-    },
-    "version": {
-      "allowBranch": "main",
-      "conventionalCommits": true,
-      "createRelease": "github",
-      "yes": true,
-      "message": "chore(release): publish [skip ci]",
-      "forcePublish": true
     }
   }
 }
